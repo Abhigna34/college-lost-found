@@ -274,15 +274,6 @@ http://localhost:5173
 
 ---
 
-## 👩‍💻 Author
-
-### Abhigna Bandi
-
-B.Tech Student
-
-Lost & Found Portal – MERN Stack Project
-
----
 
 ## ⭐ Project Goal
 
